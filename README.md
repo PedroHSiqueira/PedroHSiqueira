@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Pedro+Henrique+Siqueira;I'm+18+years+old;I+am+from+Brazil,+Rio+Grande+Do+Sul;I+study+systems+Development+at+Senac;Welcome!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Pedro+Henrique+Siqueira;I'm+18+years+old;I+am+from+Brazil,+Rio+Grande+Do+Sul;I+study+systems+Development+at+Senac;Welcome!)](https://git.io/typing-svg)<br>
 
 <div align="center"><br>
-  <img width="430"src="https://github-readme-stats.vercel.app/api?username=PedroHSiqueira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=ffffff&text_color=ffffff"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSiqueira&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff">
+  <img width="430"src="https://github-readme-stats.vercel.app/api?username=PedroHSiqueira&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=808080&text_color=808080"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSiqueira&layout=compact&theme=transparent&title_color=808080&text_color=808080">
 </div>
 
 ### Studying in this moment:
