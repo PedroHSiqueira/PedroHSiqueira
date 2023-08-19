@@ -19,12 +19,4 @@
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg">
 </div>
 
-### **Tools:**
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/chrome/chrome-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/slack/slack-original.svg">
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=545454&height=120&section=footer" />
