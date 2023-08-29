@@ -15,8 +15,10 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg?short_path=e1db5f1">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg">
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=545454&height=120&section=footer" />
