@@ -7,8 +7,10 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSiqueira&border_color=808080&layout=compact&theme=transparent&title_color=808080&text_color=808080">
 </div><br>
 
-### **Technologies:**
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">Technologies: </div>
+<br>
+
+<div style="display: inline_block" align="center">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +20,6 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg">
-
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=545454&height=120&section=footer" />
