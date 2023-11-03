@@ -20,6 +20,9 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg">
-</div>
+</div><br>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroHSiqueira&theme=transparent&card_width=1200)](https://git.io/streak-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=545454&height=120&section=footer" />
