@@ -29,6 +29,6 @@
 </div><br><br>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroHSiqueira&theme=transparent&card_width=1200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroHSiqueira&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1200)](https://git.io/streak-stats)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=545454&height=120&section=footer" />
