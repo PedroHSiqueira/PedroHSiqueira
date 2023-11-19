@@ -26,6 +26,7 @@
 
 <div style="display: inline_block" align="center">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg">
 </div><br><br>
 
 
