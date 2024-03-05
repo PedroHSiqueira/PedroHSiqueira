@@ -21,7 +21,7 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg">
   
-</div><br><br>
+</div><br>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroHSiqueira&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1200)](https://git.io/streak-stats)
