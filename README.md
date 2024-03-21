@@ -11,15 +11,14 @@
 <br>
 
 <div style="display: inline_block" align="center">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg?short_path=e1db5f1">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg">
   
 </div><br>
 
