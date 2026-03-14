@@ -82,7 +82,7 @@ Secure authentication API using **Spring Security, JWT and PostgreSQL**.
 ## 📫 Contact
 
 💼 LinkedIn: https://linkedin.com/in/phasiqueira  
-🌐 Portfolio: https://siqueiraportfolio.vercel.app
+🌐 Portfolio: https://siqueiraportofolio.vercel.app
 
 ---
 
