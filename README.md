@@ -26,11 +26,11 @@ Backend Developer focused on building **scalable and maintainable APIs** using *
 
 ## 🚀 Featured Projects
 
-🔹 **Vitrin**  
-Vitrin is a modern product showcase platform designed to present items in a clean and visually appealing interface. The application focuses on providing an intuitive browsing experience where users can explore products, view details, and navigate through a structured catalog with ease
+🔹 **[Vitrin](https://vitrin-six.vercel.app/)**  
+Vitrin is a modern product showcase platform designed to present items in a clean and visually appealing interface. The application focuses on providing an intuitive browsing experience where users can explore products, view details, and navigate through a structured catalog with ease.
 
-🔹 **Authentication API**  
-Secure authentication API using **Spring Security, JWT and PostgreSQL**.
+🔹 **[RabbitMQ Email Sender](https://github.com/PedroHSiqueira/RabbitMQ_Email_Sender)**  
+Event-driven email sending system built with **Spring Boot and RabbitMQ**, demonstrating asynchronous communication between services using the **Producer/Consumer pattern**. The project simulates user-related events being published to a queue and processed by a consumer service responsible for sending emails.
 
 ---
 
