@@ -60,6 +60,8 @@ Event-driven email sending system built with **Spring Boot and RabbitMQ**, demon
 <p>
 <img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> PostgreSQL
 &nbsp;&nbsp;
+<img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"> Redis
+&nbsp;&nbsp;
 <img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"> Docker
 </p>
 
