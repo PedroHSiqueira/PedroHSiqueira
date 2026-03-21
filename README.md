@@ -29,6 +29,9 @@ Backend Developer focused on building **scalable and maintainable APIs** using *
 🔹 **[Vitrin](https://vitrin-six.vercel.app/)**  
 Vitrin is a modern product showcase platform designed to present items in a clean and visually appealing interface. The application focuses on providing an intuitive browsing experience where users can explore products, view details, and navigate through a structured catalog with ease.
 
+🔹 **[Redis Cache Gaming API](https://github.com/PedroHSiqueira/SEU_REPOSITORIO)**  
+Backend API built with **Java and Spring Boot**, focused on performance and scalability. The project leverages **Redis for caching**, **real-time ranking using Sorted Set (ZSET)**, and **rate limiting per user**, alongside **PostgreSQL** as the primary database. It simulates a gamification system where users accumulate points and compete in a dynamic ranking.
+
 🔹 **[RabbitMQ Email Sender](https://github.com/PedroHSiqueira/RabbitMQ_Email_Sender)**  
 Event-driven email sending system built with **Spring Boot and RabbitMQ**, demonstrating asynchronous communication between services using the **Producer/Consumer pattern**. The project simulates user-related events being published to a queue and processed by a consumer service responsible for sending emails.
 
