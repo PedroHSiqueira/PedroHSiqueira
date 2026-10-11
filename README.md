@@ -72,9 +72,9 @@ Event-driven email sending system built with **Spring Boot and RabbitMQ**, demon
 ---
 
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://raw.githubusercontent.com/PedroHSiqueira/PedroHSiqueira/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ---
 
