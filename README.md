@@ -1,94 +1,165 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=545454&height=120&section=header"/>
+ <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50C878&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Pedro+Siqueira;Java+Backend+Developer;Building+scalable+APIs;Welcome!)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:166534,100:50C878&height=180&section=header&text=Pedro%20Siqueira&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=TI%20%40%20Osirnet%20%7C%20Desenvolvedor%20Backend&descAlignY=58&descSize=19" />
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=750&lines=Técnico+de+Suporte+de+TI+%40+Osirnet;Desenvolvedor+Backend;Java+%7C+Spring+Boot+%7C+APIs+REST;Conectando+infraestrutura+e+desenvolvimento)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me
+<p>
+  <a href="https://linkedin.com/in/phasiqueira">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/PedroHSiqueira">
+    <img src="https://skillicons.dev/icons?i=github" width="32" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://siqueiraportofolio.vercel.app">
+    <img src="https://cdn.simpleicons.org/vercel/50C878" width="32" alt="Portfólio" />
+  </a>
+</p>
 
-Backend Developer focused on building **scalable and maintainable APIs** using **Java and Spring Boot**.
-
-🎓 Degree in **Systems Analysis and Development**  
-⚙️ Experience with **REST APIs, relational databases and containerized environments**  
-📚 Interested in **software architecture, microservices and distributed systems**  
-🚀 Always building projects to improve my backend engineering skills
-
----
-
-
-<div align="center"><br>
-  <img width="395" src="https://github-readme-stats.vercel.app/api?username=PedroHSiqueira&show_icons=true&rank_icon=github&ring_color=50C878&theme=transparent&border_color=808080&icon_color=50C878&include_all_commits=true&count_private=true&title_color=50C878&text_color=808080"/>
-  
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSiqueira&border_color=808080&layout=compact&theme=transparent&title_color=50C878&text_color=808080">
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 Sobre mim
 
-🔹 **[Vitrin](https://vitrin-six.vercel.app/)**  
-Vitrin is a modern product showcase platform designed to present items in a clean and visually appealing interface. The application focuses on providing an intuitive browsing experience where users can explore products, view details, and navigate through a structured catalog with ease.
+Sou profissional de Tecnologia da Informação, atualmente atuando como **Técnico de Suporte de TI na Osirnet**. Trabalho com tecnologia, resolução de problemas e infraestrutura, enquanto continuo desenvolvendo minhas habilidades em engenharia de software.
 
-🔹 **[Redis Cache Gaming API](https://github.com/PedroHSiqueira/SEU_REPOSITORIO)**  
-Backend API built with **Java and Spring Boot**, focused on performance and scalability. The project leverages **Redis for caching**, **real-time ranking using Sorted Set (ZSET)**, and **rate limiting per user**, alongside **PostgreSQL** as the primary database. It simulates a gamification system where users accumulate points and compete in a dynamic ranking.
+Meu foco no desenvolvimento está em **Java, Spring Boot e APIs REST**, com interesse em arquitetura de software, sistemas distribuídos, mensageria e otimização de desempenho. Busco unir conhecimentos de infraestrutura e programação para desenvolver soluções eficientes, seguras e de fácil manutenção.
 
-🔹 **[RabbitMQ Email Sender](https://github.com/PedroHSiqueira/RabbitMQ_Email_Sender)**  
-Event-driven email sending system built with **Spring Boot and RabbitMQ**, demonstrating asynchronous communication between services using the **Producer/Consumer pattern**. The project simulates user-related events being published to a queue and processed by a consumer service responsible for sending emails.
+- 💼 **Atuação atual:** Técnico de Suporte de TI na Osirnet
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
+- ☕ **Backend:** Java, Spring Boot e APIs REST
+- 🌐 **Infraestrutura:** Redes, troubleshooting e suporte técnico
+- ⚡ **Exploração técnica:** Redis, RabbitMQ e sistemas distribuídos
+- 🚀 **Objetivo:** Evoluir continuamente em infraestrutura, automação e desenvolvimento de software
+
+> *Conectando infraestrutura, código e soluções para problemas reais.*
 
 ---
 
-## ⚙️ Tech Stack
+## 💼 Experiência profissional
 
-### Backend
+### Técnico de Suporte de TI — Osirnet
+
+Atuação na área de Tecnologia da Informação, contribuindo para o funcionamento dos ambientes tecnológicos e para a resolução de incidentes relacionados a equipamentos, sistemas e infraestrutura.
+
+- 🖥️ Suporte técnico a usuários e equipamentos.
+- 🌐 Diagnóstico de problemas de conectividade e redes.
+- ⚙️ Configuração e manutenção de ambientes de TI.
+- 🔧 Investigação e resolução de incidentes técnicos.
+- 💻 Desenvolvimento de soluções internas e automações para otimizar processos de TI.
+
+---
+🛠️ Tecnologias e ferramentas
+
+<div>
+
+Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,maven,python&theme=dark" alt="Java, Spring, Node.js,Maven e Python"/>
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs&theme=dark" alt="Javascript,TypeScript, React e Next.js"/>
+
+Ferramentas e sistemas
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux e Visual Studio Code"/>
+
+Banco de dados, mensageria e DevOps
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,grafana,prometheus&theme=dark" alt="PostgreSQL, Redis, RabbitMQ, Docker, Grafana e Prometheus"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🛍️ Vitrin
+
+**Desenvolvimento Web · Catálogo de produtos**
+
+Plataforma de apresentação de produtos com interface moderna, navegação intuitiva e catálogo organizado, priorizando uma experiência simples e agradável para o usuário.
+
+- 🎨 Interface voltada à apresentação de produtos.
+- 🧭 Navegação intuitiva e organização do catálogo.
+- 🛒 Experiência de exploração e visualização de itens.
+
+🔗 **[Acessar projeto online](https://vitrin-six.vercel.app/)**
+
+### 🔥 Redis Cache Gaming API
+
+**Java · Spring Boot · Redis · PostgreSQL**
+
+API backend que simula uma plataforma de gamificação na qual usuários acumulam pontos e competem em um ranking dinâmico.
+
+- ⚡ Utilização do Redis para cache e otimização de respostas.
+- 🏆 Ranking dinâmico com Redis Sorted Sets (ZSET).
+- 🛡️ Limitação de requisições por usuário (*rate limiting*).
+- 🗄️ PostgreSQL para persistência de dados.
+
+🔗 **[Acessar repositório](https://github.com/PedroHSiqueira/SEU_REPOSITORIO)**
+
+### 📨 RabbitMQ Email Sender
+
+**Java · Spring Boot · RabbitMQ**
+
+Sistema de envio de e-mails orientado a eventos, desenvolvido para explorar comunicação assíncrona e desacoplamento entre componentes de uma aplicação.
+
+- 📬 Publicação e consumo de mensagens.
+- 🔄 Arquitetura baseada no padrão Produtor/Consumidor.
+- ⚙️ Processamento assíncrono por meio de filas.
+- 🧩 Aplicação prática de conceitos de sistemas orientados a eventos.
+
+🔗 **[Acessar repositório](https://github.com/PedroHSiqueira/RabbitMQ_Email_Sender)**
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=PedroHSiqueira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=50C878&icon_color=50C878&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSiqueira&layout=compact&hide_border=true&bg_color=0D1117&title_color=50C878&text_color=C9D1D9&langs_count=8" alt="Linguagens mais utilizadas" />
+
+<br />
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHSiqueira&theme=dark&hide_border=true&background=0D1117&ring=50C878&fire=50C878&currStreakLabel=50C878" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+Estou sempre buscando aprender, compartilhar conhecimento e desenvolver soluções que resolvam problemas reais. Se você também gosta de tecnologia, desenvolvimento backend ou infraestrutura, vamos nos conectar!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/phasiqueira">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="24" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/PedroHSiqueira">
+  <img src="https://skillicons.dev/icons?i=github" width="24" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://siqueiraportofolio.vercel.app">
+  <img src="https://cdn.simpleicons.org/vercel/50C878" width="24" alt="Portfólio" />
+</a>
+
 <p>
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"> Java
-&nbsp;&nbsp;
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"> Spring Boot
-&nbsp;&nbsp;
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg"> Maven
-&nbsp;&nbsp;
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> Node.js
+  <sub>Obrigado pela visita! Fique à vontade para explorar meus projetos.</sub>
 </p>
 
-### Frontend
-<p>
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg"> TypeScript
-&nbsp;&nbsp;
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> React
-&nbsp;&nbsp;
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> Next.js
-</p>
+</div>
 
-### Database & DevOps
-<p>
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> PostgreSQL
-&nbsp;&nbsp;
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"> Redis
-&nbsp;&nbsp;
-<img align="center" height="20" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"> Docker
-</p>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:166534,100:50C878&height=100&section=footer" />
 
----
-
-
-<!-- <div align="center">
-<img src="https://raw.githubusercontent.com/PedroHSiqueira/PedroHSiqueira/output/snake.svg" alt="Snake animation" />
-</div> -->
-
----
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroHSiqueira&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1200)](https://git.io/streak-stats)
-
----
-
-## 📫 Contact
-
-💼 LinkedIn: https://linkedin.com/in/phasiqueira  
-🌐 Portfolio: https://siqueiraportofolio.vercel.app
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=545454&height=120&section=footer"/>
+</div>
